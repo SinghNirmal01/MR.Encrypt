@@ -11,8 +11,8 @@
 <div style="background: linear-gradient(45deg, #0a0a0a, #1a1a1a); padding: 20px; border-radius: 15px; border: 1px solid #00ff88; margin: 20px 0;">
 
 [![MIT License](https://img.shields.io/badge/LICENSE-MIT-00ff88?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0a0a0a&color=00ff88)](LICENSE.md)
-[![GitHub Stars](https://img.shields.io/badge/⭐_STARS-000-ff0080?style=for-the-badge&logo=github&logoColor=ff0080&labelColor=0a0a0a)](https://github.com/your-username/MR.Encrypt/stargazers)
-[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-ONLINE-00ffff?style=for-the-badge&logo=rocket&logoColor=00ffff&labelColor=0a0a0a)](https://your-username.github.io/MR.Encrypt/)
+[![GitHub Stars](https://img.shields.io/badge/⭐_STARS-000-ff0080?style=for-the-badge&logo=github&logoColor=ff0080&labelColor=0a0a0a)](https://github.com/SinghNirmal01/MR.Encrypt/stargazers)
+[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-ONLINE-00ffff?style=for-the-badge&logo=rocket&logoColor=00ffff&labelColor=0a0a0a)](https://singhnirmal01.github.io/MR.Encrypt/)
 
 </div>
 
@@ -95,7 +95,7 @@ Transform your **sensitive data** into **unbreakable codes** with our cutting-ed
 ### 🔐 **ENCRYPTION PROTOCOL**
 
 ```css
-🌐 Access Terminal → your-username.github.io/MR.Encrypt/
+🌐 Access Terminal → singhnirmal01.github.io/MR.Encrypt/
 ⌨️  Input Secret Data → Raw Data Field
 🔒 Execute Encrypt → Click ENCRYPT Button
 📋 Extract Cipher → Copy Encrypted Output
@@ -109,7 +109,7 @@ Transform your **sensitive data** into **unbreakable codes** with our cutting-ed
 ### 🔓 **DECRYPTION PROTOCOL**
 
 ```css
-🌐 Access Terminal → your-username.github.io/MR.Encrypt/
+🌐 Access Terminal → singhnirmal01.github.io/MR.Encrypt/
 📩 Load Cipher → Paste Encrypted Data
 🔧 Configure Key → Click Edit Key
 🔑 Input Secret → Paste Received Key
@@ -230,7 +230,7 @@ Transform your **sensitive data** into **unbreakable codes** with our cutting-ed
 
 <div style="margin: 20px 0; padding: 20px; background: #000; border-radius: 10px; border: 1px solid #00ffff;">
 <h3 style="color: #00ffff; margin: 0; text-shadow: 0 0 10px #00ffff;">⚡ DEPLOY NOW ⚡</h3>
-<a href="https://your-username.github.io/MR.Encrypt/" style="color: #00ff88; font-size: 18px; text-decoration: none; text-shadow: 0 0 10px #00ff88;">🔗 **ENTER THE MATRIX** 🔗</a>
+<a href="https://singhnirmal01.github.io/MR.Encrypt/" style="color: #00ff88; font-size: 18px; text-decoration: none; text-shadow: 0 0 10px #00ff88;">🔗 **ENTER THE MATRIX** 🔗</a>
 </div>
 
 ---
@@ -239,9 +239,9 @@ Transform your **sensitive data** into **unbreakable codes** with our cutting-ed
 
 <div style="margin: 20px 0;">
 
-[![⭐ Star this Repo](https://img.shields.io/badge/⭐_STAR_THIS_REPO-CYBER_BOOST-00ff88?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0a0a0a)](https://github.com/your-username/MR.Encrypt/stargazers)
-[![🍴 Fork & Hack](https://img.shields.io/badge/🍴_FORK_&_HACK-CYBER_CLONE-ff0080?style=for-the-badge&logo=github&logoColor=ff0080&labelColor=0a0a0a)](https://github.com/your-username/MR.Encrypt/fork)
-[![🐛 Report Bugs](https://img.shields.io/badge/🐛_REPORT_BUGS-CYBER_DEBUG-00ffff?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=0a0a0a)](https://github.com/your-username/MR.Encrypt/issues)
+[![⭐ Star this Repo](https://img.shields.io/badge/⭐_STAR_THIS_REPO-CYBER_BOOST-00ff88?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0a0a0a)](https://github.com/SinghNirmal01/MR.Encrypt/stargazers)
+[![🍴 Fork & Hack](https://img.shields.io/badge/🍴_FORK_&_HACK-CYBER_CLONE-ff0080?style=for-the-badge&logo=github&logoColor=ff0080&labelColor=0a0a0a)](https://github.com/SinghNirmal01/MR.Encrypt/fork)
+[![🐛 Report Bugs](https://img.shields.io/badge/🐛_REPORT_BUGS-CYBER_DEBUG-00ffff?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=0a0a0a)](https://github.com/SinghNirmal/MR.Encrypt/issues)
 
 </div>
 
@@ -258,7 +258,7 @@ NO DATA TRANSMISSION • ZERO SERVER STORAGE • MAXIMUM PRIVACY
 
 **CRAFTED WITH 💚 BY CODERWA**
 
-[![Follow the Matrix](https://img.shields.io/badge/FOLLOW_THE_MATRIX-GitHub-black?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0a0a0a)](https://github.com/your-username)
+[![Follow the Matrix](https://img.shields.io/badge/FOLLOW_THE_MATRIX-GitHub-black?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0a0a0a)](https://github.com/SinghNirmal01)
 
 </div>
 
