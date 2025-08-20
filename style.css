@@ -1,0 +1,146 @@
+@font-face{
+  src : url('./assets/fonts/Poppins/Poppins-ExtraBold.ttf');
+  font-family: 'Poppins-ExtraBold'; 
+}
+@font-face{
+  src : url('./assets/fonts/Poppins/Poppins-Regular.ttf');
+  font-family: 'Poppins'; 
+}
+@font-face{
+  src : url('./assets/fonts/Audiowide/Audiowide-Regular.ttf');
+  font-family: 'Audiowide'; 
+}
+
+html , body{
+  
+  padding: 0;
+  margin: 0; 
+  background-color: #263636;
+  color:#f2e1ba;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  overflow-x: hidden;
+}
+nav{
+  padding: 8px 16px;
+  font-size: 1.7em;
+   font-family: 'Audiowide', sans-serif;
+   margin-bottom:32px;
+}
+
+
+.buttons-container-full{
+  width: 90dvw; 
+  background-color: #1a2424;
+  border-radius: 16px;
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+  gap:12px; 
+  padding: 8px;
+  margin: auto;
+}
+.button{
+  width:100%;
+  text-align: center;
+  background-color:#323f3f;
+  border-radius: 12px;
+  font-size: 22px;
+  border:2px solid #323f3f;
+  transition-duration: 150ms;
+  font-family: 'Poppins-ExtraBold';
+
+}
+.button:active{
+  background-color: #181e1e;
+  border: 2px solid #fff;
+}
+.button.active{
+  background-color:#181e1e;
+}
+
+
+.input-box{ 
+  width:90%;
+  width:90%;
+  display: flex; 
+  flex-direction: column;
+  padding: 16px; 
+  border-radius: 16px ;
+  background-color: #181e1e;
+  margin:12px auto;
+  font-family: 'Poppins-ExtraBold';
+}
+.buttons-container{
+  display: flex; 
+  align-items: center; 
+  justify-content: center;
+  gap:12px; 
+  padding: 4px 12px;
+}
+
+.func-button{
+  width:40mm;
+  
+}
+.func-button:active{
+  scale:0.9
+}
+.convert-button{
+  width:50%;
+  text-align: center;
+  background-color:#12231f;
+  border-radius: 12px;
+  font-size: 22px;
+  border:2px solid #12231f;
+  font-family: 'Poppins-ExtraBold';
+  margin: auto;
+  transition-duration: 150ms;
+}
+  .convert-button:active{
+    scale:0.9
+  }
+    
+textarea{
+  background-color: #323f3f;
+  border: 2px solid #192a2a; 
+  border-radius: 12px; 
+  margin:12px 0px;
+  padding: 8px; 
+  color:#fff; 
+  font-family: 'Poppins';
+  height:150px;
+  outline: none;
+}
+textarea:focus{
+  border: 2px solid #324a4a;
+}
+.key-modal{
+  inset:0;
+  position: fixed;
+  background-color: #0005; 
+  display: none; 
+  place-items: center;
+}
+.key-container{
+  width:70%; 
+  min-height: 300px; 
+  background-color: #2e3936;
+  border-radius: 24px;
+  padding: 24px;
+  display: flex; 
+  flex-direction: column; 
+  align-items: center; 
+  justify-content: center;
+}
+.key-container button {
+  color: white ; 
+  background-color: #12231f;
+  width: 50%; 
+  padding: 8px 24px ;
+  margin: auto;
+}
+.cancel {
+  background-color: #311d1d !important;
+}
+

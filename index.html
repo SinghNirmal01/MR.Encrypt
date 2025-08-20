@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <meta
+      http-equiv="X-UA-Compatible"
+      content="ie=edge"
+    />
+    <title>MR Encrypt</title>
+    <link
+      rel="stylesheet"
+      href="style.css"
+    />
+  </head>
+  <body>
+    <nav>MR.Encrypt</nav>
+    <section>
+      <div class="buttons-container-full">
+        <div
+          id="encrypt-button"
+          class="button active"
+        >
+          Encrypt
+        </div>
+        <div
+          id="decrypt-button"
+          class="button"
+        >
+          Decrypt
+        </div>
+      </div>
+    </section>
+    <section>
+      <div class="input-box raw-data">
+        Raw Data
+        <textarea
+          placeholder="Enter your msg"
+          class="input-textarea"
+        ></textarea>
+      </div>
+      <div class="buttons-container">
+        <div class="convert-button">Encrypt</div>
+        <div class="func-button button">Copy key</div>
+      </div>
+      <div class="input-box output-data">
+        <p>Encrypted Data</p>
+        <textarea
+          class="output-textarea"
+          disabled
+        ></textarea>
+      </div>
+    </section>
+    <div class="key-modal">
+      <div class="key-container">
+        <h1>Set-up Key</h1>
+        <textarea class="key"></textarea>
+        <div class="buttons-container">
+          <button class="cancel button">Cancel</button>
+          <button class="done button">Done</button>
+        </div>
+      </div>
+    </div>
+    <script src="./key.js"></script>
+    <script src="./index.js"></script>
+  </body>
+</html>
