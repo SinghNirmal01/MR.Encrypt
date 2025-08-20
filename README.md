@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<img src="https://via.placeholder.com/300x120/0a0a0a/00ff88?text=🔐+MR.ENCRYPT" alt="MR.Encrypt Logo" style="border-radius: 15px; border: 2px solid #00ff88; box-shadow: 0 0 20px #00ff88;">
+<img src="./assets/images/Logo.jpeg" width='150' alt="MR.Encrypt Logo" style="border-radius: 15px; border: 2px solid #00ff88; box-shadow: 0 0 15px #3bac62;">
 
-<h2 style="color: #00ff88; text-shadow: 0 0 10px #00ff88;">⚡ SECURE • FAST • ENCRYPTED ⚡</h2>
+<h2 style="color: #00ff88;">⚡ SECURE • FAST • ENCRYPTED ⚡</h2>
 
 <div style="background: linear-gradient(45deg, #0a0a0a, #1a1a1a); padding: 20px; border-radius: 15px; border: 1px solid #00ff88; margin: 20px 0;">
 
@@ -75,7 +75,7 @@ Transform your **sensitive data** into **unbreakable codes** with our cutting-ed
 <br><span style="color: #888; font-size: 12px;">Your own encryption</span>
 </td><td align="center" style="background: linear-gradient(135deg, #0a0a0a, #1a1a2e); padding: 20px; border-radius: 15px; border: 1px solid #9400d3;">
 <img src="./assets/images/F6.jpeg" alt="Responsive" style="border-radius: 12px; width:60px; "/>
-<br><strong style="color: #9400d3; font-size: 14px;">📱 CYBER MOBILE</strong>
+<br><strong style="color: #9400d3; font-size: 14px; font-weight:800;">📱 CYBER MOBILE</strong>
 <br><span style="color: #888; font-size: 12px;">All device compatible</span>
 </td></tr>
 </table>
@@ -130,10 +130,10 @@ Transform your **sensitive data** into **unbreakable codes** with our cutting-ed
 
 <div align="center">
 
-<table style="border-collapse: separate; border-spacing: 15px; width: 100%;">
+<table style="border-collapse: separate; border-spacing: 15px; width: 100%; text-align:center;">
 <tr>
-<th style="background: linear-gradient(45deg, #0a0a0a, #001a00); padding: 15px; border-radius: 10px; border: 1px solid #00ff88; color: #00ff88; font-size: 16px;">✅ **SECURE PROTOCOLS**</th>
-<th style="background: linear-gradient(45deg, #0a0a0a, #1a0000); padding: 15px; border-radius: 10px; border: 1px solid #ff0080; color: #ff0080; font-size: 16px;">❌ **BREACH RISKS**</th>
+<th style="background: linear-gradient(45deg, #0a0a0a, #001a00); padding: 15px; border-radius: 10px; border: 1px solid #00ff88; color: #00ff88; font-size: 16px;">SECURE PROTOCOLS</th>
+<th style="background: linear-gradient(45deg, #0a0a0a, #1a0000); padding: 15px; border-radius: 10px; border: 1px solid #ff0080; color: #ff0080; font-size: 16px;">BREACH RISKS</th>
 </tr>
 <tr>
 <td style="background: linear-gradient(45deg, #0a0a0a, #001100); padding: 15px; border-radius: 10px; border: 1px solid #00ff88; color: #00ff88;">🔄 Separate channel key transmission</td>
@@ -181,8 +181,6 @@ Transform your **sensitive data** into **unbreakable codes** with our cutting-ed
 ## 📱 **VISUAL INTERFACE**
 
 <div align="center">
-
-
 
 ### 📱 **MOBILE CYBER TERMINAL**
 
@@ -258,7 +256,7 @@ NO DATA TRANSMISSION • ZERO SERVER STORAGE • MAXIMUM PRIVACY
 </p>
 </div>
 
-**CRAFTED WITH 💚 BY CYBER ARCHITECTS**
+**CRAFTED WITH 💚 BY CODERWA**
 
 [![Follow the Matrix](https://img.shields.io/badge/FOLLOW_THE_MATRIX-GitHub-black?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0a0a0a)](https://github.com/your-username)
 
