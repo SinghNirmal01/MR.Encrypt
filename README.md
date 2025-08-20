@@ -241,7 +241,7 @@ Transform your **sensitive data** into **unbreakable codes** with our cutting-ed
 
 [![⭐ Star this Repo](https://img.shields.io/badge/⭐_STAR_THIS_REPO-CYBER_BOOST-00ff88?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0a0a0a)](https://github.com/SinghNirmal01/MR.Encrypt/stargazers)
 [![🍴 Fork & Hack](https://img.shields.io/badge/🍴_FORK_&_HACK-CYBER_CLONE-ff0080?style=for-the-badge&logo=github&logoColor=ff0080&labelColor=0a0a0a)](https://github.com/SinghNirmal01/MR.Encrypt/fork)
-[![🐛 Report Bugs](https://img.shields.io/badge/🐛_REPORT_BUGS-CYBER_DEBUG-00ffff?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=0a0a0a)](https://github.com/SinghNirmal/MR.Encrypt/issues)
+[![🐛 Report Bugs](https://img.shields.io/badge/🐛_REPORT_BUGS-CYBER_DEBUG-00ffff?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=0a0a0a)](https://github.com/SinghNirmal01/MR.Encrypt/issues)
 
 </div>
 
